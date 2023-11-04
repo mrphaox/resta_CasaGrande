@@ -45,7 +45,7 @@ const Featured = () => {
         <div className="w-fit mx-auto">
           <Image
             className="w-[100%] max-w-[400px] sm:max-w-full h-auto shadow-2xl"
-            src="/cocidoBoyacense.png"
+            src="/grid_2.png"
             width={500}
             height={900}
             alt="grid image"
